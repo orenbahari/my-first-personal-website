@@ -1,2 +1,2 @@
 # My Personal Website
-## Coming Soon
+## Beta Version in development
