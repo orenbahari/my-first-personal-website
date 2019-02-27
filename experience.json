@@ -1,0 +1,357 @@
+{
+  "name": "Skills And Talents",
+  "children": [
+    {
+      "name": "Communication",
+      "info": "Genuine soft-skills will always be underrated. Through my days in hospitality and sales, just my learned ability not to get flustered under pressure and smile, is invaluable to my work ethic. Being able to have conversations, get to the bottom of an issue or communicate your ideas is critical to human endeavours. If people don't trust you, if they don't understand you, if they don't want to respond, you isolate yourself and lose all the risk defying, innovative aspects of collaboration. Linking my education and practical skills, my communication ability transfers across mediums, through creative writing all the way to public speaking.",
+      "children": [
+        {
+          "name": "Speech",
+          "children": [
+            { "name": "Impromptu Speaking", "value": 3938 },
+            { "name": "Debate", "value": 3812 },
+            { "name": "Storytelling", "value": 5314 },
+            { "name": "Abstraction", "value": 1743 }
+          ]
+        },
+        {
+          "name": "Writing",
+          "children": [
+            { "name": "Speech Writing", "value": 3534 },
+            { "name": "Paraphrasing", "value": 5731 },
+            { "name": "Linguistic Analysis", "value": 7840 },
+            { "name": "Article Creation", "value": 5914 },
+            { "name": "Poetry", "value": 3416 }
+          ]
+        },
+        {"name": "Simplification", "value": 5074},
+        {"name": "Explaining Insights", "value": 3074},
+        {"name": "Friendship Network", "value": 4504}
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "info": "Mathematics has always been fun for me, involving logical puzzle and mental mazes to navigate. In high school, I was successful in Specialist and Methods Maths, and I was able to get to the top 2% of the Australian Maths Competition and top 10% of the Australasian Mathematics Olympiad. I continued Maths through University, forming the foundation of Economic Optimisation and Machine Learning. I think people are too afraid of maths because they afraid of being explicitly incorrect, but I think knowledge is too valuable to be afraid. Despite having difficulties along the way, my perseverance has made Maths an integral part of my life.",
+      "children": [
+        { "name": "Probability", "value": 7010 },
+        { "name": "Numerical Analysis", "value": 5842 },
+        { "name": "AI Maths", "value": 3442 },
+        {
+          "name": "Optimisation",
+          "children": [
+            { "name": "Lagrangian", "value": 2983 },
+            { "name": "Game Theory", "value": 2047 },
+            { "name": "Utility", "value": 2375 },
+            { "name": "Applied Industry", "value": 875 },
+            { "name": "Linear Programming", "value": 8746 },
+            { "name": "Edgeworth Simulation", "value": 1629 },
+            { "name": "DSGE", "value": 1675 },
+            { "name": "Operations", "value": 2042 }
+          ]
+        },
+        { "name": "Computability", "value": 1241 },
+        { "name": "Number Systems", "value": 1041 },
+        { "name": "Logistics", "value": 5176 },
+        { "name": "Mathematical Finance", "value": 2449 },
+        { "name": "Geometry", "value": 5593 },
+        { "name": "Real Analysis", "value": 5534 },
+        { "name": "Linear Algebra", "value": 9201 },
+        { "name": "Calculus", "value": 9975 },
+        { "name": "Cryptographic Theory", "value": 1116 },
+        { "name": "Statistics", "value": 6006 }
+      ]
+    },
+    {
+      "name": "Education",
+      "info": "My first credible career ambition was education, but I thought that my ambition and drive would not be satiated in the profession. Providing tutoring services for four years, much of the assistance I gave was teaching students about writing essays and the creative thinking process around dissecting textual information. Many of those skills have been transferable in leadership position and proving assistance to others. Understanding how to break down a processes to its core elements until someone understands, is not only important for dialogue and collaboration, but helps you understand core concepts more completely.",
+      "children": [
+        {
+          "name": "Teaching Techniques",
+          "children": [
+            { "name": "Metacognitive Course Structure", "value": 2721 },
+            { "name": "Personal Tutoring", "value": 4294 },
+            { "name": "Mentoring", "value": 4800 },
+            { "name": "Gamification", "value": 1314 },
+            { "name": "Design Thinking", "value": 2220 }
+          ]
+        },
+        { "name": "Finance", "value": 1759 },
+        { "name": "Economics", "value": 2165 },
+        { "name": "History", "value": 586 },
+        { "name": "Programming", "value": 3331 },
+        { "name": "Maths", "value": 1772 },
+        { "name": "Writing", "value": 2322 }
+      ]
+    },
+    {
+      "name": "Operations",
+      "info": "Modern workplaces are a unique situation that humans only encountered in the past hundered years. Understanding how cogs in the machine turn is a skill needed now more than ever, as humans urbanise and companies digitise. My curiosity extends to understanding productivity and community in the workplace, like the impact of Open Offices or Creative Communication, or even how incentive structures, like education initiatives, have unrelated ripples in other sectors. Understanding how to be a wholehearted, effective employee/consultant, and lead and discuss proactive change, will always be relevant.",
+      "children": [
+        { "name": "Organisational Science", "value": 8833 },
+        { "name": "Team Building", "value": 2732 },
+        { "name": "Corporate Psychology", "value": 3623 },
+        { "name": "Pursuit of Efficacy", "value": 3066 }
+      ]
+    },
+    {
+      "name": "Development",
+      "info": "Skilled at dissecting global affairs and understanding the linked consquences, much of my obsession with understanding global development and the related socio-political aspects, was out of an idea that I could genuinely help people. One of my role-models is Economist, Esther Duflo, with her work scientific dissecting the building block that pull people out of poverty, so I strive to broadly think about ideas like her. I think that being a global citizen and understanding changes in the world and at home is your responsibility as a human. I believe your opinions, political views and mindset are uniquely worthwhile, if you actively choose to understand and contribute.",
+      "children": [
+        { "name": "Economic Development", "value": 3116 },
+        { "name": "Politics", "value": 4342 }
+      ]
+    },
+    {
+      "name": "Science",
+      "info": "Science has been a point of interest my entire life, mostly because it was one of the first curiosity quenching sources of knowledge. A love for science expands your brain, as you think about ideas bigger than yourself. Skills from this background allow me to be unafraid of problems you can not fully grasp, where strategies are determined by testing on the obscure information that surrounds you. Healthy scepticism and a desire to investigate is necessary in any domain. Winning the Victorian Young Physicist tournament, several other awards and integrating STEM into my career, there are multiple examples how my innate curiosity contributed to my high performance.",
+      "children": [ 
+        { "name": "Physics", "value": 2082 },
+        { "name": "Chemistry", "value": 1336 },
+        { "name": "Ecology", "value": 619 },
+        { "name": "Astronomy", "value": 457 },
+        { "name": "Scientific Theory", "value": 10498 },
+        { "name": "Geography", "value": 2822 },
+        { "name": "Environments", "value": 3183 },
+        { "name": "Computer Science", "value": 2213},
+        { "name": "Systems", "value": 861 }
+      ]
+    },
+    {
+      "name": "Commerce",
+      "info": "Commercial acumen and corporate decision science is hard to embrace through education alone, as the skill is either practical hands-on at first or theoretically advanced. Only in the last year of my Commerce degree, through difficult and specialised subjects, did I obtain any skills that could out compete what I learned from my mum's stories and my hospitality/general knowledge. Majority of critical reasoning has come through osmosis, listening to people more experienced than myself through multi-media content, like podcasts, articles and interviews.",
+      "children": [
+        { "name": "Customer Engagement", "value": 1616 },
+        { "name": "Trade", "value": 1027 },
+        { "name": "Markets", "value": 3891 },
+        { "name": "Tax", "value": 1891 },
+        { "name": "Negotiation", "value": 2893 },
+        { "name": "Research", "value": 5103 },
+        { "name": "Sales", "value": 3677 },
+        { "name": "Entrepreneurialism", "value": 4141 },
+        { "name": "Development", "value": 1933 },
+        { "name": "Risk", "value": 4530 },
+        { "name": "Supply Chain", "value": 1043 },
+        {
+          "name": "Finance",
+          "info": "Admittedly, I hated 'theoretical' finance in university. Beyond understanding financial reporting and monetary fundamentals, the rest of the major focused not about critical thinking but rather about becoming financial calculators. Not many people know that finance can be fundamentally beautiful. Thinking about the liquid transfers of resources across time through financial instruments is a rabbit hole. Much of the practical side though I enjoyed; memorably up at 3am trying to valuing merger deals for the UBS competition was actually an amazing experience. It is like major puzzle for me to solve, and that excitement transfers to my knowledge retension and work ethic.",
+          "children": [
+            { "name": "Investment", "value": 2760 },
+            { "name": "Derivative Securities", "value": 2103 },
+            { "name": "Valuation", "value": 4183 },
+            { "name": "Corporate Finance", "value": 5272},
+            { "name": "Accounting", "value": 2296 },
+            { "name": "Computational Finance", "value": 1363 },
+            { "name": "Cost Analysis", "value": 663 },
+            { "name": "M&A", "value": 1263 }
+          ]
+        },
+        { "name": "Law", "value": 543 },
+        { "name": "Ethics", "value": 1554 },
+        { "name": "Transforms", "value": 1124 },
+        { "name": "Marketing", "value": 1676 },
+        { "name": "Innovation", "value": 5201 }
+      ]
+    },
+    {
+      "name": "Community",
+      "info": "I joined a Youth Movement in High School which acts a paid-it-forward mentorship and informal education program. I received amazing guidance myself, was later trained in leadership and community mentorship and finally would later lead others. Unlike education, community skills involve fostering an environment of self-driven education and enlightenment, and focus on developing social and interpersonal learning.",
+      "children": [
+        { "name": "Metaphoric Simulation", "value": 2105 },
+        { "name": "Team Building Games", "value": 1316},
+        { "name": "Leadership", "value": 5200},
+        { "name": "Motivation Tactics", "value": 1072 },
+        { "name": "Ethics Training", "value": 2451 },
+        { "name": "Co-ordinating Action", "value": 3770 }
+      ]
+    },
+    {
+      "name": "Economics",
+      "info": "Both Micro and Macro-Economics have changed the way my brain operates and expanded the scope of my thinking. Microeconomics has formed a cornerstone in understanding both the motivations behind peoples decisions and the unintended consequences that come with incentivising outcomes. Macroeconomics has allowed me to think of problems bigger than myself and develop system wide intuition. Many of the benefits of an Economic Intuition are non-signalling, failing to produce tangible outcomes, but it would be naive to discount the profound impact it produces and it integral contribution to commercial acumen.",
+      "children": [
+        { "name": "Time-series", "value": 4258 },
+        { "name": "Strategy", "value": 10201 },
+        { "name": "Macro Economies", "value": 6217 },
+        { "name": "Micro Logic", "value": 7055 },
+        { "name": "Trends", "value": 2324 },
+        { "name": "Econometrics", "value": 7093 },
+        {
+          "name": "Environmental Economics",
+          "info": "Environmental economics was my favourite subjects, because Leslie Martin, the Professor, is one of the smartest and most influential people I've ever met and it was the only subject that got down and dirty with practical policy impact. Many of the core intermediate bridging skills, like how to properly collect economic survery data and write economic policy reports of substances, I only learned in this specialised subject. Additionally, much of the material was present and practical, understanding how to think and discuss present day problems like Melbourne's congestion crisis, and provide meaningful advice using more tangible Economic theory.",
+          "children": [
+            { "name": "Programs", "value": 2354 },
+            { "name": "Congestion", "value": 554 },
+            { "name": "Energy", "value": 1554 },
+            { "name": "Tax", "value": 754 },
+            { "name": "Polution", "value": 654 },
+            { "name": "Sustainability", "value": 2154 },
+            { "name": "Cap-and-Trade", "value": 1233 }
+          ]
+        },
+        { "name": "Motivation", "value": 3035 },
+        { "name": "Game Theory", "value": 2383 },
+        { "name": "Efficiency", "value": 1874 },
+        { "name": "Behavioural", "value": 1224 },
+        {
+          "name": "Lens",
+          "info": "Perspective is important, and being untained and open in your analysis is best way to aviod risk. My opinion about the progression of society, capitalism and economic thought, is that we are on the right track and are improving the lives of humans globally, but that there is much improvement still needed to meet the future and live in a digital democracy. Understanding your precedence is critical to understanding the future, and can assist me thinking long-term. I hope though that in the future, people and country are valued not by how much they personally produces in monterary goods this year, but how much they contribute to each other and society at large, now and in the future.",
+          "children": [
+            { "name": "New Keynesian", "value": 1465 },
+            { "name": "Neoclassical", "value": 1815 },
+            { "name": "Monetarist", "value": 1000},
+            { "name": "Austrian", "value": 966 }
+          ]
+        },
+        { "name": "Incentives", "value": 14705 },
+        { "name": "Forecasting", "value": 1486 },
+        {
+          "name": "Industrial Economics",
+          "info": "This subject is rarely chosen, because it is notorious for testing students on content they no nothing about in the scope of rote learning. That sounded like a challenge, so I joined the subject and benefited from the most useful knowledge gain of my entire education. Despite the focus on developing your thinking process, the content was so valauble because I know it can be used to uniquely help a clients in a strategic sense. Many question which I used to think as impossible to quantify have been thought of by some economist. Although some of their solutions to problems are complex, many of the underlying ideas can be used to strive closer to an unattainable, multi-faceted truth.",
+          "children": [
+            { "name": "Adaptation", "value": 2367 },
+            { "name": "Antitrust", "value": 1629 },
+            { "name": "Competitive Action", "value": 1229 },
+            { "name": "Market Structure", "value": 2229 },
+            { "name": "Verticals", "value": 856 },
+            { "name": "Price Design", "value": 926 },
+            { "name": "Bundling", "value": 1556 },
+            { "name": "Folk Theorem", "value": 324 },
+            { "name": "Entry Deterance", "value": 1324 },
+            { "name": "Patents", "value": 574 },
+            { "name": "Spatial", "value": 1124 },
+            { "name": "Merger Synergy", "value": 1424 },
+            { "name": "Differentiation", "value": 1820 },
+            { "name": "Time", "info": "Refering to intertemporal competition, which accurately asserts that much of economic intutition about firms in competition, like the Prisoner's Dillema, fail when someone can punish or reward you after a decision has been made.", "value": 2059 },
+            { "name": "Price Discrimination", "info" : "Discrimination (without negative connotation), refers to capturing markets through techniques like menu ranges and coupons. It is notoriously difficult, but aspects like Incentive Compatability and Individual Rationality can secretly ruin a business.", "value": 2291 }
+          ]
+        },
+        { "name": "Competition", "value": 5559 },
+        { "name": "Policy", "value": 9118 },
+        { "name": "Government", "value": 6887 },
+        { "name": "Intuition", "value": 6557 },
+        { "name": "Markets", "value": 8026 }
+      ]
+    },
+    {
+      "name": "Technology",
+      "info": "If every company is a technology company than every person is a technology employee. Although I did not study technology directly, I have actively made it the kernel of my life. It has been core to my upbring, with my parents entire careers being technology based, and I am actively looking to continue it in the future. Curiosity is key, because of technologies rapidly advance, and so actively reading and listening is the major driver for the development of that knowledge base.",
+      "children": [
+        {
+          "name": "Geospatial",
+          "info": "Geospatial Programmed Analysis, GIS, Geography Visualisation and its integration with other data, has become a unique skill that comparatively is necessary but sparse in the job market. Being able to link something like company sales to proximity to nearest stores by travel, is something analyst in the future will be responsible for. My skills are still in development, but I look forward to testing my limits in the future.",
+          "value": 4234
+        },
+        {
+          "name": "Networks",
+          "children": [
+            { "name": "Cloud", "value": 500 },
+            { "name": "IOT", "value": 400 },
+            { "name": "Infrastructure", "value": 1023 },
+            { "name": "Internet", "value": 1252 },
+            { "name": "SEO", "value": 636 }
+          ]
+        },
+        {
+          "name": "Web Development",
+          "info": "Web Development is a saturated job-market, mostly because of cheaper, imported, gig-labour from Asian countries. Many people who learn how to code problematically start here, rather than data or software. My studies are through Codecademy, because I think I realise some unseen potential. The web is an established and thriving ecosystem, that has assets that can be tapped for broader business if people are brave enough. Just now understanding things like colour theory, layouts and animations, has synergised with my traditional communication. 'Conceptual Design' is a make or break skill, that is even more secure when learned explicitly.",
+          "children": [
+            { "name": "JavaScript", "value": 10544 },
+            { "name": "CSS Design", "value": 9788 },
+            { "name": "Databases", "value": 8349 },
+            { "name": "Test-Driven Development", "value": 6349 },
+            { "name": "jQuery", "value": 3529 },
+            { "name": "Back-end", "value": 2851 },
+            {
+              "name": "D3 Visuals",
+              "info": "D3 is uneccessarily difficult and broadly unspecific, and thats why it is brilliant and necessary for custom cases. Born from the age of internet news, people noticed the binding of data to graphics for storytelling to be almost impossible. Imagining Adobe's Illustrator merged with Excel, D3 draws your elements to multiple, specific data values. This allows you to make bespoke visualisation and graphics, that come with any specification you like and can interact with it surroundings. In a data overloaded world, proper data binding is critical, and this seems like the only ecosystem with capicity and experience to cope. I will be actively developing my skills over the next few years.",
+              "children": [
+                { "name": "Customised Analytics", "value": 6986, "info" : "This was as a customised analytics tool in the web using D3. Thanks Mike Bostock!" },
+                { "name": "Data Storytelling", "value": 5569 },
+                { "name": "Graph Dynamics", "value": 3532 },
+                { "name": "Geospatial Views", "value": 2247 }
+              ]
+            },
+            { "name": "React", "value": 5275 },
+            { "name": "XML", "value": 7147 }
+          ]
+        },
+        {
+          "name": "Office",
+          "children": [
+            { "name": "PowerPoint", "value": 7313 },
+            { "name": "Excel", "value": 9880 },
+            { "name": "VBA", "value": 3701 },
+            { "name": "Publisher", "value": 1117 }
+          ]
+        },
+        {
+          "name": "Digitisation",
+          "info": "",
+          "children": [
+            { "name": "Tech Symbiosis", "value": 2859 },
+            { "name": "Software Implentation", "value": 4614 },
+            { "name": "Venture Experience", "value": 7320 }
+          ]
+        },
+        {
+          "name": "Data Programming",
+          "info": "Starting accidentaly with Python in university, I wish someone told me how amazing, easy to learn and inspiring, this style of coding was. My idea of coding was unfortunately enveloped by this nerdy hacker stereotype you see in popular-culture. I once listened to some McKinsey Executives talk about not being afraid of not learning data/code, because just like the fear of electricity, everyone scuffles but eventually the best people sells it to you as a variable good. Through cognitive bias, I believe they don't understand just how much more powerful this programming makes your traditional activities, where through synergies you become a better worker.",
+          "children": [
+            {
+              "name": "Visualisation",
+              "children": [
+                { "name": "Dashboarding", "value": 4461 },
+                { "name": "Scientific Visuals", "value": 5314 },
+                { "name": "Interactivity", "value": 3444 },
+                { "name": "Colour Theory", "value": 2800 },
+                { "name": "Factory Functions", "value": 1256},
+                { "name": "Tableau", "value": 1000}
+              ]
+            },
+            {
+              "name": "Machine Learning",
+              "children": [
+                { "name": "Keras", "value": 3179 },
+                { "name": "Sklearn", "value": 4060 },
+                { "name": "Core Concepts", "value": 4138 },
+                { "name": "Tensorflow", "value": 1690 }
+              ]
+            },
+            {
+              "name": "Software",
+              "info": "I am by no means a Software Engineer, I just try to make mini apps, so if I make something and want to share it, people can act through a GUI rather than an API or modulation. One day I hope to be entrepreneurial by nature wherever I am, and create assets of value from what I have learned overtime. Irrespective of who designs the final product or where my ideas take me, the skills are necessary to understand fundamental feasability ",
+              "children": [
+                { "name": "Lite-Web Apps", "value": 3219 },
+                { "name": "Java", "value": 2165 },
+                { "name": "Mobile", "value": 1509 }
+              ]
+            },
+            {
+              "name": "Data Processing",
+              "info": "42,000,000,000,000,000,000,000 bytes of global data in 2020. The importance of this skill needs no introduction. The job of a Data Analyst will take over in the near future, and everyone will just be regular analysts, with data processing as a way of life.",
+              "children": [
+                { "name": "Statistics", "value": 6725 },
+                { "name": "Reporting", "value": 3727 },
+                { "name": "Web Scrapping", "value": 9317 },
+                { "name": "Python", "value": 14003, "info": "Rapidly climbing to the worlds most popular coding language, its multi-faceted packages and links to modern AI frameworks has it as the most-useful, 'Data Centric' coding language. First gaining exposure to Python through an introductory subject, my knowledge base has exploded thanks to the gigantic supply of open source and assistive tools across the internet. Completing the entire University Michigan Free Audit Diploma, the entire DataCamp Data Scientist course and a range of books, resources and tutorials, my talents have dramatically escalated. Much of my focus now is the both of combining exploratory and explanatory data science expertise to practical problems."},
+                { "name": "Progressive Coding", "value": 4853 },
+                { "name": "Pandas", "value": 8411 },
+                { "name": "OOP", "value": 4864 },
+                { "name": "Data Types", "value": 3174 },
+                { "name": "Time-Series", "value": 5881 },
+                { "name": "Threading", "value": 1287 },
+                { "name": "R", "value": 2728 },
+                { "name": "Advanced Functions", "value": 1234 },
+                { "name": "Collaboration", "value": 870 },
+                { "name": "Algorithms", "value": 7121 },
+                { "name": "SQL", "value": 6191 }
+              ]
+            },
+            { "name": "Github", "value": 2490 },
+            { "name": "Creative Code", "value": 5248 }
+          ]
+        },
+        { "name": "Blockchain", "value": 16540 }
+      ]
+    }
+  ]
+}
