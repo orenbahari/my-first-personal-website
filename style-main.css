@@ -335,7 +335,6 @@ h6 {
 #card-date {
   height: auto;
   width: 150px;
-  display: inline-block;
   margin: 0 auto;
 }
 
@@ -360,7 +359,6 @@ h6 {
 #card-img {
   height: auto;
   width: 50px;
-  display: inline-block;
   margin: 0 auto;
   padding: 20px 0 0 20px;
 }
@@ -436,7 +434,6 @@ input {
 .card .back img {
   width: 180px;
   height: 180px;
-  display: block;
   border-radius: 80%;
   border: 2px solid #e87da9;
   margin: 10px;
@@ -667,6 +664,10 @@ footer a {
   #banner-img .banner {
     margin: 0px;
   }
+  card {
+    width: 90%;
+    height: 1400px;
+  }
 }
 
 @media only screen and (max-width: 400px) {
@@ -765,12 +766,16 @@ footer a {
   .front,
   .back {
     width: 100%;
+  }
+  
+  .back {
     height: 1200px;
   }
   
   footer p {
     width: 70%;
   }
+  
   footer {
     height: 5rem;
   }
