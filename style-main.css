@@ -689,6 +689,9 @@ footer a {
   #banner-img .banner {
     margin: 0px;
   }
+  .hide-tiny {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 900px) {
@@ -758,11 +761,18 @@ footer a {
   .card-dates {
   position: static;
   }
+  
+  .front,
+  .back {
+    width: 100%;
+    height: 1200px;
+  }
+  
   footer p {
     width: 70%;
   }
   footer {
-    height: auto;
+    height: 5rem;
   }
 }
 
