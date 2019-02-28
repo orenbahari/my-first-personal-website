@@ -751,6 +751,19 @@ footer a {
   .hide-small {
     display: none;
   }
+  card {
+    width: 90%;
+    height: 1200px;
+  }
+  .card-dates {
+  position: static;
+  }
+  footer p {
+    width: 70%;
+  }
+  footer {
+    height: auto;
+  }
 }
 
 
