@@ -31,7 +31,7 @@
     },
     {
       "name": "Mathematics",
-      "info": "Mathematics has always been fun for me, involving logical puzzle and mental mazes to navigate. In high school, I was successful in Specialist and Methods Maths, and I was able to get to the top 2% of the Australian Maths Competition and top 10% of the Australasian Mathematics Olympiad. I continued Maths through University, forming the foundation of Economic Optimisation and Machine Learning. I think people are too afraid of maths because they afraid of being explicitly incorrect, but I think knowledge is too valuable to be afraid. Despite having difficulties along the way, my perseverance has made Maths an integral part of my life.",
+      "info": "Mathematics has always been fun for me, involving logical puzzle and mental mazes to navigate. In high school, I was successful in Specialist and Methods Maths, and I was able to get to the top 2% of the Australian Maths Competition and top 10% of the Australasian Mathematics Olympiad. I continued Maths through University, forming the foundation of Economic Optimisation and Machine Learning. I think people are too afraid of maths because they are afraid of being explicitly incorrect, but I think knowledge is too valuable to be afraid. Despite having difficulties along the way, my perseverance has made Maths an integral part of my life.",
       "children": [
         { "name": "Probability", "value": 7010 },
         { "name": "Numerical Analysis", "value": 5842 },
@@ -63,7 +63,7 @@
     },
     {
       "name": "Education",
-      "info": "My first credible career ambition was education, but I thought that my ambition and drive would not be satiated in the profession. Providing tutoring services for four years, much of the assistance I gave was teaching students about writing essays and the creative thinking process around dissecting textual information. Many of those skills have been transferable in leadership position and proving assistance to others. Understanding how to break down a processes to its core elements until someone understands, is not only important for dialogue and collaboration, but helps you understand core concepts more completely.",
+      "info": "My first credible career ambition was education, but I thought that my ambition and drive would not be satiated in the profession. Providing tutoring services for four years, much of the assistance I gave was teaching students about writing essays and the creative thinking process around dissecting textual information. Many of those skills have been transferable in leadership positions and proving assistance to others. Understanding how to break down a processes to its core elements until someone understands, is not only important for dialogue and collaboration, but helps you understand core concepts more completely.",
       "children": [
         {
           "name": "Teaching Techniques",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Development",
-      "info": "Skilled at dissecting global affairs and understanding the linked consequences, much of my obsession with understanding global development and the related socio-political aspects, was out of an idea that I could genuinely help people. One of my role-models is Economist, Esther Duflo, with her work scientific dissecting the building block that pull people out of poverty, so I strive to broadly think about ideas like her. I think that being a global citizen and understanding changes in the world and at home is your responsibility as a human. I believe your opinions, political views and mindset are uniquely worthwhile, if you actively choose to understand and contribute.",
+      "info": "Skilled at dissecting global affairs and understanding the linked consequences, much of my obsession with understanding global development and the related socio-political aspects, was out of an idea that I could genuinely help people. One of my role-models is Economist, Esther Duflo, with her work scientific dissecting the building blocks that pull people out of poverty, so I strive to broadly think about ideas like her. I think that being a global citizen and understanding changes in the world and at home is your responsibility as a human. I believe your opinions, political views and mindset are uniquely worthwhile, if you actively choose to understand and contribute.",
       "children": [
         { "name": "Economic Development", "value": 3116 },
         { "name": "Politics", "value": 4342 }
@@ -133,7 +133,7 @@
         { "name": "Supply Chain", "value": 1043 },
         {
           "name": "Finance",
-          "info": "Admittedly, I hated 'theoretical' finance in university. Beyond understanding financial reporting and monetary fundamentals, the rest of the major focused not about critical thinking but rather about becoming financial calculators. Not many people know that finance can be fundamentally beautiful. Thinking about the liquid transfers of resources across time through financial instruments is a rabbit hole. Much of the practical side though I enjoyed; memorably up at 3am trying to valuing merger deals for the UBS competition was actually an amazing experience. It is like major puzzle for me to solve, and that excitement transfers to my knowledge retention and work ethic.",
+          "info": "Admittedly, I hated 'theoretical' finance in university. Beyond understanding financial reporting and monetary fundamentals, the rest of the major focused not about critical thinking but rather about becoming financial calculators. Not many people know that finance can be fundamentally beautiful. Thinking about the liquid transfers of resources across time through financial instruments is a rabbit hole. Much of the practical side though I enjoyed; memorably up at 3am trying to value merger deals for the UBS competition was actually an amazing experience. It is like major puzzle for me to solve, and that excitement transfers to my knowledge retention and work ethic.",
           "children": [
             { "name": "Investment", "value": 2760 },
             { "name": "Derivative Securities", "value": 2103 },
@@ -154,7 +154,7 @@
     },
     {
       "name": "Community",
-      "info": "I joined a Youth Movement in High School which acts a paid-it-forward mentorship and informal education program. I received amazing guidance myself, was later trained in leadership and community mentorship and finally would later lead others. Unlike education, community skills involve fostering an environment of self-driven education and enlightenment, and focus on developing social and interpersonal learning.",
+      "info": "I joined a Youth Movement in High School which acts as a pay-it-forward mentorship and informal education program. I received amazing guidance myself, was later trained in leadership and community mentorship, and finally would later lead others. Unlike education, community skills involve fostering an environment of self-driven education and enlightenment, and focus on developing social and interpersonal learning.",
       "children": [
         { "name": "Metaphoric Simulation", "value": 2105 },
         { "name": "Team Building Games", "value": 1316},
@@ -176,7 +176,7 @@
         { "name": "Econometrics", "value": 7093 },
         {
           "name": "Environmental Economics",
-          "info": "Environmental economics was my favourite subjects, because Leslie Martin, the Professor, is one of the smartest and most influential people I've ever met and it was the only subject that got down and dirty with practical policy impact. Many of the core intermediate bridging skills, like how to properly collect economic survery data and write economic policy reports of substances, I only learned in this specialised subject. Additionally, much of the material was present and practical, understanding how to think and discuss present day problems like Melbourne's congestion crisis, and provide meaningful advice using more tangible Economic theory.",
+          "info": "Environmental economics was one of my favourite subjects, because Leslie Martin, the Professor, is one of the smartest and most influential people I've ever met and it was the only subject that got down and dirty with practical policy impact. Many of the core intermediate bridging skills, like how to properly collect economic survery data and write economic policy reports of substances, I only learned in this specialised subject. Additionally, much of the material was present and practical, understanding how to think and discuss present day problems like Melbourne's congestion crisis, and provide meaningful advice using more tangible Economic theory.",
           "children": [
             { "name": "Programs", "value": 2354 },
             { "name": "Congestion", "value": 554 },
@@ -193,7 +193,7 @@
         { "name": "Behavioural", "value": 1224 },
         {
           "name": "Lens",
-          "info": "Perspective is important, and being untainted and open in your analysis is best way to avoid risk. My opinion about the progression of society, capitalism and economic thought, is that we are on the right track and are improving the lives of humans globally, but that there is much improvement still needed to meet the future and live in a digital democracy. Understanding your precedence is critical to understanding the future, and can assist me thinking long-term. I hope though that in the future, people and country are valued not by how much they personally produces in monterary goods this year, but how much they contribute to each other and society at large, now and in the future.",
+          "info": "Perspective is important, and being untainted and open in your analysis is the best way to avoid risk. My opinion about the progression of society, capitalism and economic thought, is that we are on the right track and are improving the lives of humans globally, but that there is much improvement still needed to meet the future and live in a digital democracy. Understanding your precedence is critical to understanding the future, and can assist me thinking long-term. I hope though that in the future, people and country are valued not by how much they personally produce in monterary goods this year, but how much they contribute to each other and society at large, now and in the future.",
           "children": [
             { "name": "New Keynesian", "value": 1465 },
             { "name": "Neoclassical", "value": 1815 },
@@ -233,7 +233,7 @@
     },
     {
       "name": "Technology",
-      "info": "If every company is a technology company than every person is a technology employee. Although I did not study technology directly, I have actively made it the kernel of my life. It has been core to my upbringing, with my parents entire careers being technology based, and I am actively looking to continue it in the future. Curiosity is key, because of technologies rapidly advance, and so actively reading and listening is the major driver for the development of that knowledge base.",
+      "info": "If every company is a technology company than every person is a technology employee. Although I did not study technology directly, I have actively made it the kernel of my life. It has been core to my upbringing, with my parents entire careers being technology based, and I am actively looking to continue it in the future. Curiosity is key, because of technology's rapid advance, and so actively reading and listening is the major driver for the development of that knowledge base.",
       "children": [
         {
           "name": "Geospatial",
@@ -262,7 +262,7 @@
             { "name": "Back-end", "value": 2851 },
             {
               "name": "D3 Visuals",
-              "info": "D3 is unecessarily difficult and broadly unspecific, and thats why it is brilliant and necessary for custom cases. Born from the age of internet news, people noticed the binding of data to graphics for storytelling to be almost impossible. Imagining Adobe's Illustrator merged with Excel, D3 draws your elements to multiple, specific data values. This allows you to make bespoke visualisation and graphics, that come with any specification you like and can interact with it surroundings. In a data overloaded world, proper data binding is critical, and this seems like the only ecosystem with capicity and experience to cope. I will be actively developing my skills over the next few years.",
+              "info": "D3 is unecessarily difficult and broadly unspecific, and thats why it is brilliant and necessary for custom cases. Born from the age of internet news, people noticed the binding of data to graphics for storytelling to be almost impossible. Imagining Adobe's Illustrator merged with Excel, D3 draws your elements to multiple, specific data values. This allows you to make bespoke visualisation and graphics, that come with any specification you like and can interact with its surroundings. In a data overloaded world, proper data binding is critical, and this seems like the only ecosystem with capicity and experience to cope. I will be actively developing my skills over the next few years.",
               "children": [
                 { "name": "Customised Analytics", "value": 6986, "info" : "This was as a customised analytics tool in the web using D3. Thanks Mike Bostock!" },
                 { "name": "Data Storytelling", "value": 5569 },
