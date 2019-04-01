@@ -116,6 +116,14 @@ h6 {
   align-items: center;
 }
 
+#banner-img .svg-person {
+  position: absolute;
+  bottom: 20px;
+  right: 300px;
+  height: 100px;
+  width: 100px
+}
+
 #banner-img .banner {
   background-color: rgba(8, 0, 84, 0.5);
   width: 100%;
@@ -452,7 +460,7 @@ input {
 /* Work Experience */
 
 #experience {
-  margin: 80px auto;
+  margin: 80px auto 0 auto;
   padding-top: 30px
 }
 
@@ -621,11 +629,12 @@ input {
 }
 
 #free-time {
-  padding: 100px 2px;
+  padding: 30px;
 }
 
-#free-time h1, h3 {
+#free-time h3 {
   padding: 20px;
+  margin: 0;
 }
 
 footer {
@@ -648,13 +657,133 @@ footer a {
 
 /*Responsive Magic*/
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 900px) {
+  .card {
+    width: 90%;
+    height: 830px;
+  }
+  .front,
+  .back {
+    width: 100%;
+    height: 830px;
+  }
+
+  .thumbnail {
+    display: none;
+  }
+
+  .hidden {
+    display: block;
+    height: 300px;
+    width: 65%;
+    margin: auto;
+    -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+    overflow: hidden;
+    position: relative;
+    top: -40px;
+  }
+
+  .card-dates {
+    width: 90%;
+    position: absolute;
+    bottom: 90px;
+  }
+  .left {
+    position: static;
+    height: auto;
+  }
+  .right {
+    margin: auto;
+    width: 90%;
+  }
+
+  #university {
+    margin-top: 100px;
+  }
+
+  #high-school {
+    margin-top: 150px;
+  }
+
+  .card h1 {
+    font-size: 1.6rem;
+  }
+
+  .card p {
+    font-size: 1.15rem;
+  }
+}
+
+@media only screen and (max-width: 800px) { 
+  .card-dates {
+    width: 90%;
+    position: absolute;
+    bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .hidden {
+    display: block;
+    height: 300px;
+    width: 75%;
+  }
+
+  .hide-small {
+    display: none;
+  }
+
+  .card {
+    width: 90%;
+    height: 950px;
+  }
+
+  .card-dates {
+    width: 90%;
+    position: absolute;
+    bottom: 30px;
+  }
+  
+  .front,
+  .back {
+    width: 100%;
+    height: 950px;
+  }
+  
+
+  footer p {
+    width: 70%;
+  }
+  
+  footer {
+    height: 5rem;
+  }
+
+  .card .back img {
+    margin: 0;
+  }
+}
+
+
+@media only screen and (max-width: 450px) {
   #header {
     height: 15rem;
   }
+
   .main {
-    padding-top: 10rem;
+    padding-top: 15rem;
   }
+
+  .hide-tiny {
+    display: none;
+  }
+
+  .card .back img {
+    margin: 10px;
+  }
+
   #header svg {
     height: 13rem;
     width: 13rem;
@@ -695,90 +824,8 @@ footer a {
   }
 }
 
-@media only screen and (max-width: 900px) {
-  .card {
-    width: 90%;
-    height: 800px;
-  }
-  .front,
-  .back {
-    width: 100%;
-    height: 900px;
-  }
-  .thumbnail {
-    display: none;
-  }
-  .hidden {
-    display: block;
-    height: 30%;
-    width: 75%;
-    margin: auto;
-    -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-    overflow: hidden;
-    position: relative;
-    top: -40px;
-  }
-  .card-dates {
-    width: 90%;
-    position: absolute;
-    bottom: 120px;
-  }
-  .left {
-    position: static;
-    height: auto;
-  }
-  .right {
-    margin: auto;
-    width: 90%;
-  }
 
-  #university {
-    margin-top: 100px;
-  }
 
-  #high-school {
-    margin-top: 150px;
-  }
 
-  .card h1 {
-    font-size: 1.6rem;
-  }
-
-  .card p {
-    font-size: 1.15rem;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .hide-small {
-    display: none;
-  }
-  card {
-    width: 90%;
-    height: 1200px;
-  }
-  .card-dates {
-  position: static;
-  }
-  
-  .front,
-  .back {
-    width: 100%;
-  }
-  
-  .back {
-    height: 1200px;
-  }
-  
-  footer p {
-    width: 70%;
-  }
-  
-  footer {
-    height: 5rem;
-  }
-}
 
 
