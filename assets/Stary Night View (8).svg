@@ -138,14 +138,14 @@
 				</linearGradient>
 				<polygon points="487.9,496.1 486.5,494.8 487.7,494.8 483.9,471 482,483.6 483.3,483.6 481.8,485 &#10;&#9;&#9;&#9;&#9;&#9;481.8,485 479.5,500.3 480.8,500.3 479.3,501.7 476.5,520.3 491.8,520.3 &#9;&#9;&#9;&#9;" id="el_SPDArUhWai_"/>
 				<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="553.0552" y1="490.5622" x2="553.0552" y2="657.0538">
-					<stop offset="0" style="stop-color:#000025"/>
-					<stop offset="1" style="stop-color:#080037"/>
+					<stop offset="0" style="stop-color:#03002b"/>
+					<stop offset="1" style="stop-color:#03002b"/>
 				</linearGradient>
 				<polygon points="556.8,502.2 555.4,500.9 556.6,500.9 552.8,477.1 550.9,489.7 552.2,489.7 550.7,491.1 &#10;&#9;&#9;&#9;&#9;&#9;550.7,491.1 548.4,506.4 549.7,506.4 548.2,507.8 545.4,526.4 560.7,526.4 &#9;&#9;&#9;&#9;" id="el_VyMDGnbQd13"/>
 			</g></g>
 			<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="400" y1="490.5622" x2="400" y2="657.0538">
-				<stop offset="0" style="stop-color:#000025"/>
-				<stop offset="1" style="stop-color:#080037"/>
+				<stop offset="0" style="stop-color:#03002b"/>
+				<stop offset="1" style="stop-color:#03002b"/>
 			</linearGradient>
 			<path d="M0,517.2c0,0,245.1-24,292.1-23.5s358.8,39.6,507.9,39.6V600H0V517.2z" id="el_nBhaeQtv2Qb"/>
 		</g>
