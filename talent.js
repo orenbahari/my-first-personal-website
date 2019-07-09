@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
 
-var width = 700, height= 700;
+var width = 700, height = 700;
 
 pack = data => d3.pack()
     .size([width, height])
